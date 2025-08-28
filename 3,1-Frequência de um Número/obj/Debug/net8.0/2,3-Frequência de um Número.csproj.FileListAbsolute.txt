@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\bin\Debug\net8.0\2,3-Frequência de um Número.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\bin\Debug\net8.0\2,3-Frequência de um Número.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\bin\Debug\net8.0\2,3-Frequência de um Número.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\bin\Debug\net8.0\2,3-Frequência de um Número.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\bin\Debug\net8.0\2,3-Frequência de um Número.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\2,3-Frequência de um Número.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\2,3-Frequência de um Número.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\2,3-Frequência de um Número.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\2,3-Frequência de um Número.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\2,3-Frequência de um Número.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\refint\2,3-Frequência de um Número.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\2,3-Frequência de um Número.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\2,3-Frequência de um Número.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,1-Frequência de um Número\obj\Debug\net8.0\ref\2,3-Frequência de um Número.dll

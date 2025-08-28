@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\bin\Debug\net8.0\2,2-Inversão de Elementos.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\bin\Debug\net8.0\2,2-Inversão de Elementos.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\bin\Debug\net8.0\2,2-Inversão de Elementos.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\bin\Debug\net8.0\2,2-Inversão de Elementos.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\bin\Debug\net8.0\2,2-Inversão de Elementos.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\2,2-Inversão de Elementos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\2,2-Inversão de Elementos.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\2,2-Inversão de Elementos.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\2,2-Inversão de Elementos.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\2,2-Inversão de Elementos.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\refint\2,2-Inversão de Elementos.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\2,2-Inversão de Elementos.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\2,2-Inversão de Elementos.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\2,2-Inversão de Elementos\obj\Debug\net8.0\ref\2,2-Inversão de Elementos.dll

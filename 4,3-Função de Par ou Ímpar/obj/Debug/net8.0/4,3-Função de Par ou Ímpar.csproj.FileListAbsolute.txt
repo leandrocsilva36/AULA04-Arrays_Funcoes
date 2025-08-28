@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\bin\Debug\net8.0\4,3-Função de Par ou Ímpar.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\bin\Debug\net8.0\4,3-Função de Par ou Ímpar.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\bin\Debug\net8.0\4,3-Função de Par ou Ímpar.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\bin\Debug\net8.0\4,3-Função de Par ou Ímpar.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\bin\Debug\net8.0\4,3-Função de Par ou Ímpar.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\4,3-Função de Par ou Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\4,3-Função de Par ou Ímpar.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\4,3-Função de Par ou Ímpar.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\4,3-Função de Par ou Ímpar.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\4,3-Função de Par ou Ímpar.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\refint\4,3-Função de Par ou Ímpar.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\4,3-Função de Par ou Ímpar.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\4,3-Função de Par ou Ímpar.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,3-Função de Par ou Ímpar\obj\Debug\net8.0\ref\4,3-Função de Par ou Ímpar.dll

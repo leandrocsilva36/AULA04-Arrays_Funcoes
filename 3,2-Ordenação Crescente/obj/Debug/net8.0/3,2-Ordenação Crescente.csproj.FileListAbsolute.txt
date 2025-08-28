@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\bin\Debug\net8.0\3,2-Ordenação Crescente.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\bin\Debug\net8.0\3,2-Ordenação Crescente.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\bin\Debug\net8.0\3,2-Ordenação Crescente.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\bin\Debug\net8.0\3,2-Ordenação Crescente.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\bin\Debug\net8.0\3,2-Ordenação Crescente.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\3,2-Ordenação Crescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\3,2-Ordenação Crescente.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\3,2-Ordenação Crescente.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\3,2-Ordenação Crescente.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\3,2-Ordenação Crescente.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\refint\3,2-Ordenação Crescente.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\3,2-Ordenação Crescente.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\3,2-Ordenação Crescente.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\3,2-Ordenação Crescente\obj\Debug\net8.0\ref\3,2-Ordenação Crescente.dll

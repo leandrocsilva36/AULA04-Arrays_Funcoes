@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\bin\Debug\net8.0\1-Soma dos Elementos.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\bin\Debug\net8.0\1-Soma dos Elementos.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\bin\Debug\net8.0\1-Soma dos Elementos.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\bin\Debug\net8.0\1-Soma dos Elementos.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\bin\Debug\net8.0\1-Soma dos Elementos.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\1-Soma dos Elementos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\1-Soma dos Elementos.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\1-Soma dos Elementos.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\1-Soma dos Elementos.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\1-Soma dos Elementos.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\refint\1-Soma dos Elementos.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\1-Soma dos Elementos.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\1-Soma dos Elementos.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\1-Soma dos Elementos\obj\Debug\net8.0\ref\1-Soma dos Elementos.dll

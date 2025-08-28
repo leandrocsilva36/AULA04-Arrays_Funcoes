@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\bin\Debug\net8.0\5,1-Função de Fatorial.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\bin\Debug\net8.0\5,1-Função de Fatorial.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\bin\Debug\net8.0\5,1-Função de Fatorial.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\bin\Debug\net8.0\5,1-Função de Fatorial.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\bin\Debug\net8.0\5,1-Função de Fatorial.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\5,1-Função de Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\5,1-Função de Fatorial.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\5,1-Função de Fatorial.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\5,1-Função de Fatorial.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\5,1-Função de Fatorial.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\refint\5,1-Função de Fatorial.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\5,1-Função de Fatorial.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\5,1-Função de Fatorial.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,1-Função de Fatorial\obj\Debug\net8.0\ref\5,1-Função de Fatorial.dll

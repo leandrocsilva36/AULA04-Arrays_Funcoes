@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\bin\Debug\net8.0\5,2-Função para Inverter String.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\bin\Debug\net8.0\5,2-Função para Inverter String.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\bin\Debug\net8.0\5,2-Função para Inverter String.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\bin\Debug\net8.0\5,2-Função para Inverter String.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\bin\Debug\net8.0\5,2-Função para Inverter String.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\5,2-Função para Inverter String.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\5,2-Função para Inverter String.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\5,2-Função para Inverter String.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\5,2-Função para Inverter String.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\5,2-Função para Inverter String.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\refint\5,2-Função para Inverter String.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\5,2-Função para Inverter String.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\5,2-Função para Inverter String.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\5,2-Função para Inverter String\obj\Debug\net8.0\ref\5,2-Função para Inverter String.dll

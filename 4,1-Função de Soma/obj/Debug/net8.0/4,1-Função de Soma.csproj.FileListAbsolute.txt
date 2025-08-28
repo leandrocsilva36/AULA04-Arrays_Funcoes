@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\bin\Debug\net8.0\4,1-Função de Soma.exe
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\bin\Debug\net8.0\4,1-Função de Soma.deps.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\bin\Debug\net8.0\4,1-Função de Soma.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\bin\Debug\net8.0\4,1-Função de Soma.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\bin\Debug\net8.0\4,1-Função de Soma.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\4,1-Função de Soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\4,1-Função de Soma.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\4,1-Função de Soma.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\4,1-Função de Soma.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\4,1-Função de Soma.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\refint\4,1-Função de Soma.dll
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\4,1-Função de Soma.pdb
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\4,1-Função de Soma.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\AULA 04-Arrays e Funções\4,1-Função de Soma\obj\Debug\net8.0\ref\4,1-Função de Soma.dll
